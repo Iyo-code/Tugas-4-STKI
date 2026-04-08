@@ -1,0 +1,1 @@
+Fuzzy logic digunakan dalam sistem pengambilan keputusan yang tidak pasti.

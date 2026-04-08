@@ -1,0 +1,1 @@
+Information retrieval adalah teknik untuk mencari informasi yang relevan dari kumpulan dokumen.

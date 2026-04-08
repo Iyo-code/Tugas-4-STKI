@@ -1,0 +1,1 @@
+Deep learning merupakan cabang dari machine learning yang menggunakan neural network untuk pembelajaran.

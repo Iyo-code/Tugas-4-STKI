@@ -1,0 +1,1 @@
+Natural language processing digunakan untuk memahami bahasa manusia dalam bentuk teks.
