@@ -200,8 +200,8 @@ Proyek ini dibuat untuk:
 
 ## 👤 Author
 
-Nama: **Trio Suro Wibowo**
-NIM: **2405551168**
+Nama: **Trio Suro Wibowo** <br>
+NIM: **2405551168** <br>
 Mata Kuliah: **Sistem Temu Kembali Informasi (STKI)**
 
 ---
