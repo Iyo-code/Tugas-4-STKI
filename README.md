@@ -202,7 +202,7 @@ Proyek ini dibuat untuk:
 
 Nama: **Trio Suro Wibowo** <br>
 NIM: **2405551168** <br>
-Mata Kuliah: **Sistem Temu Kembali Informasi (STKI)**
+Mata Kuliah: **Sistem Temu Kembali Informasi Kelas D**
 
 ---
 
